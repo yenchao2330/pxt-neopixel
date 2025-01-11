@@ -1,7 +1,7 @@
 {
     "name": "neopixel",
-    "version": "0.7.6",
-    "description": "AdaFruit NeoPixel driver",
+    "version": "0.1.0",
+    "description": "這是專為micro:bit提供的NeoPixel積木",
     "license": "MIT",
     "dependencies": {
         "core": "*",
